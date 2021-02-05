@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "196635273520",
+    "firebase_url": "https://matrixdbms.firebaseio.com",
+    "project_id": "matrixdbms",
+    "storage_bucket": "matrixdbms.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196635273520:android:8935cbd6360c42a9e600f5",
+        "android_client_info": {
+          "package_name": "com.example.matrixdbms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "196635273520-i5jivh18i6j7l6k5as0m9cf9r1p9fo2k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByfQWr-pY2osrpCSSckoxvJYIkBLFkt5I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "196635273520-i5jivh18i6j7l6k5as0m9cf9r1p9fo2k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

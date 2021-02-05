@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="part_categories">
+        <item>Airframe</item>
+        <item>Cockpit</item>
+        <item>Firewall (engine)</item>
+        <item>Outboard tail</item>
+        <item>Trailing-arm suspension</item>
+        <item>Wings</item>
+    </string-array>
+</resources>
